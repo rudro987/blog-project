@@ -11,9 +11,13 @@
     font-size: 12px;
     letter-spacing: 5px;
 }
+.navbar-brand a:hover{
+    text-decoration: none;
+}
 .navbar-nav  li a:hover {
     color: #1abc9c !important;
 }
+
 
 .footer-padding {
 	padding-bottom: 60px;
